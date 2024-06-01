@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allen, I'm a college freshman
-- 👀 I’m interested in programming since m intro to programming class in first semester
+- 👀 I’m interested in programming since my intro to programming class in first semester
 - 🤖 I'm currently pursuing a B.S. in Robotics and Digital Systems Engineering
 - 🌱 I’m currently learning at college different programming languages such as C++, MATLAB and Python
 - 💞️ I’m looking to learn more about computer science (OOP, DSA, & more), and to collaborate on projects that apply fundamental (and basic) knowledge of programming

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Allen, I'm a college freshman
+- 👋 Hi, I’m Allen, I'm a college sophomore student
 - 👀 I’m interested in programming since my 'Computational Thinking' class in first semester
 - 🤖 I'm currently pursuing a B.S. in Robotics and Digital Systems Engineering
 - 🌱 I’m currently learning at college different programming languages such as C++, MATLAB and Python

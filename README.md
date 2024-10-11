@@ -1,9 +1,30 @@
-- 👋 Hi, I’m Allen, I'm a college sophomore student
-- 🤖 I'm currently pursuing a B.S. in Robotics and Digital Systems Engineering
-- 🌱 I’m currently learning at college different programming languages such as C++, MATLAB and Python
-- 😄 Pronouns: he/him
+![Banner](https://github.com/marcos-allen/marcos-allen/blob/main/Banner.png)
 
-<!---
-marcos-allen/marcos-allen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# Welcome to My GitHub Profile!
+
+## 👋 About Me
+I am a student of **Robotics and Digital Systems Engineering** passionate about the knowledge of emerging technologies.
+Through my professional development, I seek to form myself as a professional capable of creating innovative technological systems that seek to contribute to the needs of modern society, applying my knowledge of software and hardware with ethical, quality and sustainability principles, to increase people's quality of life by developing solutions to modern world problems.
+I love exploring new domains and learning different programming languages.
+
+## 🛠️ Skills
+- **Programming Languages:**
+  - Python
+  - C++
+  - MATLAB
+- **Softwares:**
+  - Microsoft Office
+  - Minitab
+
+## 🌱👨‍💻 Currently Learning
+- HTML & CSS
+- Go
+- R
+- SQL
+- AutoCAD
+- Fusion
+- SOLIDWORKS
+
+---

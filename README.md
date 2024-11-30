@@ -20,12 +20,12 @@ I love exploring new domains and learning different programming languages.
 
 
 ## 🌱👨‍💻 Currently Learning
-- HTML & CSS
-- Go
-- R
-- SQL
-- AutoCAD
-- Fusion
-- SOLIDWORKS
+
+| Programming Languages | Softwares |
+|----------|----------|
+| HTML & CSS | AutoCAD |
+| Go | Autodesk Fusion |
+| R | SolidWorks |
+| SQL |  |
 
 ---

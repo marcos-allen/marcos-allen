@@ -5,27 +5,17 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 About Me
-I am a student of **Robotics and Digital Systems Engineering** passionate about the knowledge of emerging technologies.
-Through my professional development, I seek to form myself as a professional capable of creating innovative technological systems that seek to contribute to the needs of modern society, applying my knowledge of software and hardware with ethical, quality and sustainability principles, to increase people's quality of life by developing solutions to modern world problems.
-I love exploring new domains and learning different programming languages.
+I am a **Robotics and Digital Systems Engineering** student at Tecnológico de Monterrey passionate emerging technologies and sustainable innovation. Throughout my academic an professional development, I have built a solid foundation in designing and implementing hardware-software systems.
+
+I am motivated by the opportunity to create innovative technological solutions that address societal challenges, with an emphasis on ethical practices and sustainability. My goal is to contribute to improving quality of life by leveraging my knowledge in electronics, programming, and sustainable technologies.
 
 
-## 🛠️ Skills
+## 🛠️🌱 Skills and Currently Learning
 
-| Programming Languages | Softwares |
-|----------|----------|
-| Python | Minitab |
-| C++ | Microsoft Office |
-| MATLAB |  |
-
-
-## 🌱👨‍💻 Currently Learning
-
-| Programming Languages | Softwares |
-|----------|----------|
-| HTML & CSS | AutoCAD |
-| Go | Autodesk Fusion |
-| R | SolidWorks |
-| SQL |  |
+| Programming Languages | Softwares | Tools | Areas of Interest |
+|----------|----------|----------|----------|
+| Python | Minitab | GitHub | Embedded Systems |
+| C++ | Microsoft Office | | Sustainability |
+| MATLAB |  | | AI |
 
 ---
